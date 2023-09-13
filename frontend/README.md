@@ -1,23 +1,22 @@
-### Как запустить проект:
+## Запуск frontend сервера
 
-Клонировать репозиторий и перейти в него в командной строке:
+Перейдите в директорию проекта:
 
-```
-git clone https://github.com/yandex-praktikum/kittygram_frontend.git
-```
-
-```
-cd kittygram_frontend
+```shell
+cd kittygram_final/frontend/
 ```
 
-Установить зависимости:
+Установите зависимости (может занять время):
 
-```
+```shell
 npm i
 ```
 
-Запустить проект:
+Запустите frontend локально:
 
-```
+```shell
 npm run start
 ```
+
+### Сервер будет доступен по адресу:
+http://127.0.0.1:3000
