@@ -3,7 +3,7 @@
 Перейдите в директорию проекта:
 
 ```shell
-cd kittygram_final/frontend/
+cd MeowMoments/frontend/
 ```
 
 Установите зависимости (может занять время):

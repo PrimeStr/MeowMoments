@@ -3,7 +3,7 @@
 Перейдите в директорию проекта:
 
 ```shell
-cd kittygram_final/backend/
+cd MeowMoments/backend/
 ```
 
 Создайте виртуальное окружение в папке **backend**:
